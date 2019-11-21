@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    color: #fff;
+}
+
+li {
+    border: solid;
+    border-color: #fff;
+    margin: 10px;
+    padding: 5px;
+}
