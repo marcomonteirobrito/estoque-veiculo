@@ -5,3 +5,4 @@ Recursos rest para acesso aos dados dos veículos
 Frontend utilizando (ReactJs)
 Jquery
 Styled Components
+Listar, criar, editar e excluir veículos.
